@@ -11,7 +11,7 @@ resources:
 variables:
   # Container registry service connection established during pipeline creation
   azureSubscription: 'Azure for Students'
-  appName: 'FioriTestApp'
+  appName: 'samplefioriapp'
   dockerRegistryServiceConnection: '2e0d5e3d-5894-4e24-b022-6d02a87cd7cc'
   imageRepository: 'msierskiuionazure'
   containerRegistry: 'msifioridockerapp.azurecr.io'
